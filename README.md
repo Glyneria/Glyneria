@@ -6,6 +6,7 @@ I am a student and THE backend developer.
 - Staring at terminal errors
 
 ### My repositories stays public so you can watch me struggle in real time.
+Vibe coding is obsolete, real ones aura code.
 
 <!--
 **Glyneria/Glyneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
