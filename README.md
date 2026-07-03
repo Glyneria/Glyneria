@@ -1,8 +1,8 @@
 # About Me
-I am a student and a backend developer.
+I am a student and THE backend developer. 
 
 ## Technical Skills
-- Springboot, Node.js, Express, PostgreSQL, Supabase
+- Springboot, Node.js, Express, PostgreSQL
 - Staring at terminal errors
 
 ### My repositories stays public so you can watch me struggle in real time.
