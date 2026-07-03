@@ -1,4 +1,11 @@
-## Hi there 👋
+# About Me
+I am a student and a backend developer.
+
+## Technical Skills
+- Springboot, Node.js, Express, PostgreSQL, Supabase
+- Staring at terminal errors
+
+### My repositories stays public so you can watch me struggle in real time.
 
 <!--
 **Glyneria/Glyneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
